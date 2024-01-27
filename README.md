@@ -2,7 +2,7 @@
     GitHub User
 </h1>
 
-### Tech stack
+## Tech stack
 - Single Activity Pattern
 - Repository pattern
 - MVVM
@@ -11,7 +11,7 @@
 - Retrofit2 for networking (get data from Github API)
 - Android Room for saving favotite user
 
-## Need to update/fix
+### Need to update/fix
 - Coroutines
 - Standar Library Navigations
 - Backstacks
@@ -21,5 +21,5 @@
 ## Watch the demo below
 
 <p align="center">
-    <img src="https://github.com/achmadichzan/GitHub_User/assets/122871669/60ca072d-365c-40bd-b6a8-ae1965d0fd77" width="50%" height="30%">
+    <img src="https://github.com/achmadichzan/GitHub_User/assets/122871669/60ca072d-365c-40bd-b6a8-ae1965d0fd77" width="40%" height="20%">
 </p>
