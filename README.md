@@ -21,5 +21,5 @@
 ## Watch the demo below
 
 <p align="center">
-    <img src="https://github.com/achmadichzan/GitHub_User/assets/122871669/a551c212-0a73-438f-bb10-2d8262c016dd" width="50%" height="30%">
+    <img src="https://github.com/achmadichzan/GitHub_User/assets/122871669/60ca072d-365c-40bd-b6a8-ae1965d0fd77" width="50%" height="30%">
 </p>
