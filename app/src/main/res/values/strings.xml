@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">GitHub User</string>
+    <string name="username">Username</string>
+    <string name="user_avatar">user_avatar</string>
+    <string name="tab_follower">Followers</string>
+    <string name="tab_following">Following</string>
+    <string name="search">Search</string>
+    <string name="search_hint">Masukkan kata</string>
+    <string name="followers">%1$d Followers</string>
+    <string name="following">%1$d Following</string>
+    <string name="follow_tab">Follow tab</string>
+    <string name="favourite">Favourite</string>
+    <string name="fab_favorite">Floating action button favorite</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_favorite">Favorite</string>
+    <string name="nav_settings">Settings</string>
+    <string name="theme_activated">%s theme activated</string>
+</resources>

@@ -1,0 +1,7 @@
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Favorite -->
+    <item android:drawable="@drawable/baseline_favorite_24" android:state_enabled="true" android:state_checked="true" />
+    <item android:drawable="@drawable/baseline_favorite_border_24" android:state_enabled="true" android:state_checked="false" />
+
+</selector>
